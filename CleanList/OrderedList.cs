@@ -1,10 +1,14 @@
-﻿namespace CleanList;
+﻿using System.Runtime.CompilerServices;
+
+namespace CleanList;
 
 public class OrderedList<T>
 {
     private readonly Node<T> _head;
     
     public int Count { get; private set; }
+
+    public T this[int index] => ToArray()[index];
 
     public OrderedList()
     {
