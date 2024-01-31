@@ -1,0 +1,15 @@
+C:\Users\simsi\RiderProjects\CleanList\CleanList\bin\Debug\net7.0\CleanList.exe
+C:\Users\simsi\RiderProjects\CleanList\CleanList\bin\Debug\net7.0\CleanList.deps.json
+C:\Users\simsi\RiderProjects\CleanList\CleanList\bin\Debug\net7.0\CleanList.runtimeconfig.json
+C:\Users\simsi\RiderProjects\CleanList\CleanList\bin\Debug\net7.0\CleanList.dll
+C:\Users\simsi\RiderProjects\CleanList\CleanList\bin\Debug\net7.0\CleanList.pdb
+C:\Users\simsi\RiderProjects\CleanList\CleanList\obj\Debug\net7.0\CleanList.csproj.AssemblyReference.cache
+C:\Users\simsi\RiderProjects\CleanList\CleanList\obj\Debug\net7.0\CleanList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simsi\RiderProjects\CleanList\CleanList\obj\Debug\net7.0\CleanList.AssemblyInfoInputs.cache
+C:\Users\simsi\RiderProjects\CleanList\CleanList\obj\Debug\net7.0\CleanList.AssemblyInfo.cs
+C:\Users\simsi\RiderProjects\CleanList\CleanList\obj\Debug\net7.0\CleanList.csproj.CoreCompileInputs.cache
+C:\Users\simsi\RiderProjects\CleanList\CleanList\obj\Debug\net7.0\CleanList.dll
+C:\Users\simsi\RiderProjects\CleanList\CleanList\obj\Debug\net7.0\refint\CleanList.dll
+C:\Users\simsi\RiderProjects\CleanList\CleanList\obj\Debug\net7.0\CleanList.pdb
+C:\Users\simsi\RiderProjects\CleanList\CleanList\obj\Debug\net7.0\CleanList.genruntimeconfig.cache
+C:\Users\simsi\RiderProjects\CleanList\CleanList\obj\Debug\net7.0\ref\CleanList.dll
