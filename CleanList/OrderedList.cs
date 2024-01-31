@@ -17,15 +17,12 @@ public class OrderedList<T>
 
         while (node.Next is not null)
         {
-            if (node.Next is not null)
+            if (Comparer<T>.Default.Compare(node.Next.Value, value) > 0) //change to < for intersection: 1,2,3 will get 3,2,1
             {
-                if (Comparer<T>.Default.Compare(node.Next.Value, value) > 0) //change to 1 for intersection: 1,2,3 will get 3,2,1
-                {
-                    Node<T> pointer = node.Next;
-                    node.Next = new Node<T>(value, pointer);
-                    Count++;
-                    return;
-                }
+                Node<T> pointer = node.Next;
+                node.Next = new Node<T>(value, pointer);
+                Count++;
+                return;
             }
             
             node = node.Next;
